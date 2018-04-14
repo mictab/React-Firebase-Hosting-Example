@@ -1,6 +1,8 @@
 # React-Firebase-Hosting-Example
 A simple example to show how you can deploy a create-react-app to Firebase Hosting
 
+The deployed app can be seen at https://iprog-firebase-example.firebaseapp.com/
+
 ## Steps
 
 1. Create a React project, e.g. with `create-react-app`
